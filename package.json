@@ -51,6 +51,7 @@
     "vite": "^2.9.6"
   },
   "dependencies": {
+    "@aclue-de/web-components": "^1.0.23",
     "lit-html": "^2.2.3"
   }
 }
